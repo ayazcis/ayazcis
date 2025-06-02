@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Çisem Ayaz</h1>
-<h3 align="center">Junior game developer and Computer Science student</h3>
+<h3 align="center">Part-time C# Developer | Junior Game Developer | Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Unity**
+- 💼 I’m currently working part-time as a **C# Developer**
 
-- 🌱 I’m currently learning **2D and 3D game development with Unity**
+- 🎮 I’m also actively developing **2D and 3D games with Unity**
+
+- 🌱 Continuously learning and improving my skills in **game development and software engineering**
 
 - 👨‍💻 All of my projects are available **[here](https://frostio.itch.io/)**
 
